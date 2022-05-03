@@ -23,7 +23,7 @@ function HomePage(props) {
           content="Browse a huge list of hily active meetups"
         />
       </Head>
-      <MeetupList meetups={props.meetups} />;
+      <MeetupList meetups={props.meetups} />
     </>
   );
 }
