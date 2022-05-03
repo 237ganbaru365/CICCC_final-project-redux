@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "starcleat": "next start"
   },
   "dependencies": {
     "mongodb": "^4.5.0",
